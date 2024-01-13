@@ -16,11 +16,11 @@ Follow these steps to set up your development environment:
    execute **source venv/bin/activate**</br>
 4. **Install Dependencies:**</br>
    To install the required libraries using pip and the requirements.txt execute:</br>
-   pip install -r requirements.txt
+   **pip install -r requirements.txt**
 5. **Run Your Application:**
    You are now ready to run the GPA prediction application
    execute the following command to run the application:
-   python main.py
+   **python main.py**
 
 
 
